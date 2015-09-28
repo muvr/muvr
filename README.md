@@ -37,3 +37,10 @@ Here is an example of what the captured data looks like:
 And here is a birdseye view of a whole exercise session:
 ![muvr sample data](docu/images/sample-session-overview.png)
 This part of the project can be viewed as a data science playground. The models used in the application are trained using spark jobs written in either scala or python. Tasks that require more explorational analysis can be done using R.
+
+## Talks
+- ["Cassandra as event sourced journal for big data analytics", Anirvan @ Scala Days Amsterdam 2015](http://www.eigengo.com/scaladays-ams-2015/)
+- ["Exercise Analysis", Jan @ Scala Days Amsterdam 2015](http://www.eigengo.com/scaladays-ams-2015/)
+- ["Implementing Exercise Wearables Analysis with Spark and Akka", Jan @ Philly ETE 2015](http://chariotsolutions.com/presentation/philly-ete-2015-jan-machacek-implementing-exercise-wearables-analysis-spark-akka/)
+- ["Exercise in machine learning", Jan @ Scala Days SF 2015](https://www.parleys.com/tutorial/exercise-machine-learning)
+- ["Building distributed Akka systems", Jan @ Scala Exchange 2014](https://skillsmatter.com/skillscasts/5840-building-distributed-akka-systems)
